@@ -1,0 +1,14 @@
+# =====================================================================
+# DANH SÁCH TRẮNG (WHITELIST) - KHÔNG BAO GIỜ RỜI
+# =====================================================================
+# Tool sẽ tự động BỎ QUA bất kỳ nhóm hoặc kênh nào có trong danh sách này.
+# Bạn có thể nhập:
+# 1. ID của nhóm (bắt đầu bằng -100... hoặc số âm)
+# 2. @username của nhóm (ví dụ: @tennhom_cuaban)
+# 3. Tên không có @ (ví dụ: tennhom_cuaban)
+# Mỗi dòng 1 mục. Dấu # ở đầu dòng là ghi chú.
+# =====================================================================
+
+# -1001234567890
+# @my_vip_group
+# @channel_tin_tuc

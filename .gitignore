@@ -1,0 +1,27 @@
+# Telegram session files (TUYỆT ĐỐI KHÔNG UP LÊN GITHUB - CHỨA KHÓA ĐĂNG NHẬP)
+*.session
+*.session-journal
+sessions/
+
+# File cấu hình cá nhân chứa API ID / API Hash / SĐT / Password
+config.json
+
+# Environment variables
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
